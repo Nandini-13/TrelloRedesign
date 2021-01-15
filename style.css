@@ -23,3 +23,7 @@ body{
 nav{
     z-index: 1000;
 }
+#carouselExampleControls{
+    height: 95vh !important;
+    width: 90%;
+}
